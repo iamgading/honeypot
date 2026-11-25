@@ -1,0 +1,9 @@
+ip_log.db
+ip_log.db-wal
+ip_log.db-shm
+honeypot.log
+honeypot.pid
+stop.flag
+test.flag
+__pycache__/
+*.pyc
